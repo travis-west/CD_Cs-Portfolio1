@@ -1,0 +1,23 @@
+h1 {
+    color: maroon;
+}
+
+h2 {
+    color: lightblue;
+}
+
+.block{
+    display: inline-block;
+    text-align: center;
+    border: solid gray 1px;
+    border-radius: 10px;
+    width: 40%;
+    min-height: 300px;
+    vertical-align: top;
+    padding: 10px 10px 10px 10px;
+    margin-right: 15px;
+}
+
+#avatar {
+    width: 200px;
+}
