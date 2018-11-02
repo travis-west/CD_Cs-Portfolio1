@@ -18,6 +18,12 @@ h2 {
     margin-right: 15px;
 }
 
+.screenshot {
+    width: 250px;
+    border: 1px solid lightgray;
+}
+
 #avatar {
     width: 200px;
 }
+
